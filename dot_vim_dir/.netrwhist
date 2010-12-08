@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/gbullock/vooProjects/Voonami-Tiki/vendor/plugins/will_paginate/lib/will_paginate'
+let g:netrw_dirhist_2='/Users/gbullock/vooProjects/Voonami-Tiki/app/views/documents'
+let g:netrw_dirhist_3='/opt/local/lib/ruby/gems/1.8/gems/quickbooks-1.0.2/lib/quickbooks'
+let g:netrw_dirhist_4='/Users/gbullock/vooProjects/Voonami-Tiki/vendor/gems/quickbooks-1.0.7/lib/quickbooks'
+let g:netrw_dirhist_5='/Users/gbullock/Downloads/gg'
